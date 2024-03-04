@@ -1,0 +1,18 @@
+.box {
+    background-color: black;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 300px;
+    margin: 50px auto;
+    position: relative;
+    top: 50px;
+}
+
+.box h2 {
+    margin-top: 0;
+}
+
+.box button {
+    margin-top: 10px;
+}
